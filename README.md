@@ -2,7 +2,7 @@
 
 
 Needs:
-TCPdump
-Python3
-xterm
-arpspoof (dsniff)
+TCPdump,
+Python3,
+xterm,
+arpspoof (dsniff).
