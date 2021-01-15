@@ -8,4 +8,4 @@ xterm,
 arpspoof (dsniff).
 
 
-This script grabs a packet from my automatic lawnmower that contains alot of information, including the pin
+This script grabs a packet from workx automatic lawnmower that contains information including the password for the lawmower :)
